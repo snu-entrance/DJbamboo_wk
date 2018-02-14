@@ -1,2 +1,4 @@
-# DJbamboo_wk
-DJbamboo_with_kakaotalk
+# DJ 까똑
+
+### 실행 방법
+- 데이터 있는 경로를 bamboo_dir이라는 이름으로 먼저 환경 변수 선언해주고 실행하셔야 해요
