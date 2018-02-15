@@ -4,11 +4,11 @@
 - 데이터 있는 경로를 bamboo_dir이라는 이름으로 먼저 환경 변수 선언해주고 실행하셔야 해요
 
 ### Requirement
-python 3.6.3
-jdk 9.0.4
-gensim 3.1.0
-konlpy 0.4.4
-numpy 1.13.3
+python 3.6.3  
+jdk 9.0.4  
+gensim 3.1.0  
+konlpy 0.4.4  
+numpy 1.13.3  
 
 ### License
 
